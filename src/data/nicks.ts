@@ -75,4 +75,5 @@ export default [
   'Caraguatatubo',
   'Araraquaro',
   'Ubatubo',
+  'Casos Bahio',
 ];
